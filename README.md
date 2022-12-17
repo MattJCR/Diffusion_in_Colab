@@ -1,1 +1,1 @@
-# Stable-Diffusion-Colab
+# EASY STABLE DIFFUSION IMPLEMENTATION
